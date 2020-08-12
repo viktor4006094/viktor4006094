@@ -1,8 +1,8 @@
 ## Hi!
 
 I'm a C++ and graphics programmer with an interest in most things tech.  
-Recently graduated from BTH with an MSE degree in game and software engineering.  
-Currently looking for programming work in the Stockholm and Uppsala regions.
+I recently graduated from BTH with an MSE degree in game and software engineering,  
+and I'm urrently looking for programming work in the Stockholm and Uppsala regions.
 
 ****
 
